@@ -1,3 +1,5 @@
+Note: archived Sept 2023 due to inactivity.
+
 # BME280
 
 This repo is home to my implementation of a continuous sensor read script for a
